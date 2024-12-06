@@ -1,0 +1,6 @@
+print('Olá mundo!')
+print ('Hello, world!')
+print ('Bem vindos ao Senac')
+print ('Good morning! Bom dia!')
+print ('Welcome')
+print ('<3')
